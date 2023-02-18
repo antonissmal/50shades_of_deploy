@@ -27,7 +27,7 @@
           <input type="range" min="1" max="30" value="15" step="1">
         </div>
         <div class="pass-settings">
-          <label class="title">Password Settings</label>
+          <label class="title">Password_Settings</label>
           <ul class="options">
             <li class="option">
               <input type="checkbox" id="lowercase" checked>
