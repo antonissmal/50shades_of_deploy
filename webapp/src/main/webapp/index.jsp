@@ -2,7 +2,6 @@
 <!-- Simple Javascript Example from pulled from the internet | 50shades Of Deploy  -->
 <html lang="en" dir="ltr">
   <head>
-    <h2>Testing</h2>
     <meta charset="utf-8">
     <title>Password Generator | 50shades Of Deploy </title>
     <link rel="stylesheet" href="style.css">
@@ -13,7 +12,7 @@
   </head>
   <body>
     <div class="container">
-      <h2>Password__Generator</h2>
+      <h2>       PasswordGenerator</h2>
       <div class="wrapper">
         <div class="input-box">
           <input type="text" disabled>
@@ -28,7 +27,7 @@
           <input type="range" min="1" max="30" value="15" step="1">
         </div>
         <div class="pass-settings">
-          <label class="title">Password_Settings</label>
+          <label class="title">Password Settings</label>
           <ul class="options">
             <li class="option">
               <input type="checkbox" id="lowercase" checked>
