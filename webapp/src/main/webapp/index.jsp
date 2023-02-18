@@ -12,7 +12,7 @@
   </head>
   <body>
     <div class="container">
-      <h2>Password_Generator</h2>
+      <h2>Password__Generator</h2>
       <div class="wrapper">
         <div class="input-box">
           <input type="text" disabled>
